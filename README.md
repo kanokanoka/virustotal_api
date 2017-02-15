@@ -1,2 +1,3 @@
 # virustotal_api
-for api
+Virustotalのapi使ってみようかと思います
+未完
