@@ -1,3 +1,3 @@
 # virustotal_api
-Virustotalのapi使ってみようかと思います
-未完
+Virustotalのapi使ってみようかと思います<br>
+まずはapi keyからhashに問い合わせるとこまで
